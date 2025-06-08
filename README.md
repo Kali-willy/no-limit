@@ -21,7 +21,7 @@ A cross-platform script that optimizes CPU and GPU settings for gaming performan
 
 1. Download the script:
 ```
-wget https://raw.githubusercontent.com/yourusername/gaming-boost/main/boost_gaming.sh
+wget https://raw.githubusercontent.com/kali-willy/gaming-boost/main/boost_gaming.sh
 ```
 
 2. Make it executable:
